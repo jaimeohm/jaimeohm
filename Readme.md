@@ -1,8 +1,9 @@
 Hi 👋 My name is J'aime Ohm 
 ===========================  
-I help to create 
+I love nerding out on Swift & Objective-C 
 ---------------------------------  
-* 🌍  Meet me in Seattle, San Francisco, and Minneapolis 
+* 🌍  Meet me in Seattle, San Francisco, and Minneapolis 
 * 🤝  Say hi: [@jaimeohm on Twitter](http://twitter.com/jaimeohm)
-* 🤝  Open to peer code review and to new opportunities
-* ⚡  My hobbies include fitness, fantasy, dance, singing
+* 👩‍💻  If you're a senior+ woman in iOS in the USA, message me about joining our monthly ladies hack days
+* 👩‍💻  I lead weekly and monthly events for Swift & Objective-C developers in San Francisco.
+* ⚡   My other hobbies include fitness, fantastic tales, dance, singing
